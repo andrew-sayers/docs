@@ -19,7 +19,7 @@ Here are some programs to help you track your sleep.  The galleries below all re
 A range of devices for tracking fitness and other statistics
 
 <div><span class="software-key fas fa-link"></span><a href="https://www.fitbit.com/">Home page</a></div>
-<div><span class="software-key fas fa-money-check-dollar"></span>Fitness tracker</div>
+<div><span class="software-key fas fa-money-check-dollar"></span>Device with free apps</div>
 <div><span class="software-key fas fa-computer"></span><span class="software-value fas fa-clock" title="Watch"></span><span class="software-value fas fa-globe" title="Website"></span><span class="software-value fas fa-brands fa-apple" title="Ios"></span><span class="software-value fas fa-brands fa-android" title="Android"></span></div>
 
 <ShowOnClick>
@@ -114,7 +114,7 @@ An alarm clock and sleep cycle tracker for Android phones.
 A free tool that generates sleep charts from CSV files.
 
 <div><span class="software-key fas fa-link"></span><a href="https://sleepcharter.z13.web.core.windows.net/">Home page</a></div>
-<div><span class="software-key fas fa-money-check-dollar"></span>Free</div>
+<div><span class="software-key fas fa-money-check-dollar"></span>Free (closed source)</div>
 <div><span class="software-key fas fa-computer"></span><span class="software-value fas fa-globe" title="Website"></span></div>
 
 <ShowOnClick>
@@ -235,7 +235,7 @@ A closed source Android application for tracking sleep habits.
 
 <div><span class="software-key fas fa-link"></span><a href="https://www.squalllinesoftware.com/?q=node/2">Home page</a></div>
 <div><span class="software-key fas fa-file-code"></span><a href="/core/src/Sleepmeter/">File format</a></div>
-<div><span class="software-key fas fa-money-check-dollar"></span>Free with ads</div>
+<div><span class="software-key fas fa-money-check-dollar"></span>Ad-supported</div>
 <div><span class="software-key fas fa-computer"></span><span class="software-value fas fa-brands fa-android" title="Android"></span></div>
 
 <ShowOnClick>
