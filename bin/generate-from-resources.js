@@ -500,7 +500,7 @@ if ( fs.existsSync(`${base_dir}/../resources/Makefile`) ) {
 } else {
     const https = require('https');
     https.get(
-        'https://sleepdiary.github.io/resources/resources.json',
+        'https://raw.githubusercontent.com/andrew-sayers/resources/built/entities.json',
         res => {
             let json = '';
             res.on('data', data => json += data);
